@@ -1,0 +1,27 @@
+#first{
+    background-color: rgb(236, 242, 255);
+}
+
+
+#third{
+    background-color: rgb(185, 243, 252);
+}
+#fourth{
+    background-color: gray;
+}
+body{
+    font-family: 'Courier New';
+}
+h3{
+    font-family: arial; color: rgb(2, 46, 48);
+}
+aside{
+    color: cadetblue;
+}
+h2{
+    font-style: normal; color: darkblue;
+}
+ul{
+    font-family: 'Courier New';
+}
+
